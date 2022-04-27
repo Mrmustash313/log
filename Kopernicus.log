@@ -1,0 +1,43 @@
+//==============================================================================================================================//
+//=====  CKAN Stable Kopernicus Release-90 - (BuildDate: 10.04.2022 23:33:18; AssemblyHash: YMO/nMdQkQ4jqoKaV9BkZlmO9tE=)  =====//
+//==============================================================================================================================//
+[LOG 19:10:30]: Logger "Kopernicus" was created
+[LOG 19:10:30]: Injector.Awake(): Begin
+[LOG 19:10:30]: Parsing Target name in (Kopernicus.Configuration.Loader) as (System.String)
+[LOG 19:10:30]: Parsing Target timeScale in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Double])
+[LOG 19:10:30]: Parsing Target scale in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Double])
+[LOG 19:10:30]: Parsing Target Epoch in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Double])
+[LOG 19:10:30]: Parsing Target useOnDemand in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Boolean])
+[LOG 19:10:30]: Parsing Target useOnDemandBiomes in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Boolean])
+[LOG 19:10:30]: Parsing Target onDemandLoadOnMissing in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Boolean])
+[LOG 19:10:30]: Parsing Target onDemandLogOnMissing in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Boolean])
+[LOG 19:10:30]: Parsing Target onDemandUnloadDelay in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Int32])
+[LOG 19:10:30]: Parsing Target useManualMemoryManagement in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Boolean])
+[LOG 19:10:30]: Parsing Target mainMenuBody in (Kopernicus.Configuration.Loader) as (System.String)
+[LOG 19:10:30]: Parsing Target maxViewingDistance in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Double])
+[LOG 19:10:30]: Parsing Target scaledSpaceFaderMult in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Double])
+[LOG 19:10:30]: Parsing Target force3DOrbits in (Kopernicus.Configuration.Loader) as (Kopernicus.ConfigParser.BuiltinTypeParsers.NumericParser`1[System.Boolean])
+[LOG 19:10:30]: Parsing Target self in (Kopernicus.Configuration.Loader) as (System.Collections.Generic.List`1[Kopernicus.ConfigParser.BuiltinTypeParsers.StringCollectionParser])
+[LOG 19:10:30]: [Kopernicus]: Configuration.Loader: Loaded Body: Sun
+[LOG 19:10:30]: [Kopernicus]: Configuration.Loader: Loaded Body: Moho
+[LOG 19:10:30]: [Kopernicus]: Configuration.Loader: Loaded Body: Eve
+[LOG 19:10:30]: [Kopernicus]: Configuration.Loader: Loaded Body: Gilly
+[LOG 19:10:31]: [Kopernicus]: Configuration.Loader: Loaded Body: Kerbin
+[LOG 19:10:31]: [Kopernicus]: Configuration.Loader: Loaded Body: Mun
+[LOG 19:10:31]: [Kopernicus]: Configuration.Loader: Loaded Body: Minmus
+[LOG 19:10:31]: [Kopernicus]: Configuration.Loader: Loaded Body: Duna
+[LOG 19:10:31]: [Kopernicus]: Configuration.Loader: Loaded Body: Ike
+[LOG 19:10:31]: [Kopernicus]: Configuration.Loader: Loaded Body: Dres
+[LOG 19:10:32]: [Kopernicus]: Configuration.Loader: Loaded Body: Jool
+[LOG 19:10:32]: [Kopernicus]: Configuration.Loader: Loaded Body: Laythe
+[LOG 19:10:32]: [Kopernicus]: Configuration.Loader: Loaded Body: Vall
+[LOG 19:10:32]: [Kopernicus]: Configuration.Loader: Loaded Body: Tylo
+[LOG 19:10:32]: [Kopernicus]: Configuration.Loader: Loaded Body: Bop
+[LOG 19:10:33]: [Kopernicus]: Configuration.Loader: Loaded Body: Pol
+[LOG 19:10:33]: [Kopernicus]: Configuration.Loader: Loaded Body: Eeloo
+[LOG 19:10:33]: [Kopernicus]: Configuration.Loader: Loaded Body: Valentine
+[LOG 19:10:33]: [Kopernicus]: Configuration.Loader: Failed to load Body: Fust: Value cannot be null.
+Parameter name: type
+[LOG 19:10:41]: [Kopernicus] RuntimeUtility Started
+[LOG 19:10:41]: StarLightSwitcher.Awake(): Begin
+[LOG 19:18:40]: Injector.OnDestroy(): Complete
