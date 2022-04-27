@@ -1,123 +1,120 @@
 Executing: KSP-AVC - 1.4.1.9
 Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 
-[Text 14:45:40.3847238]: Starter was created.
+[Text 15:27:36.4433771]: Starter was created.
 Executing: KSP-AVC - 1.4.1.9
 Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 
-[Text 14:46:01.0712968]: [KSP-AVC] Version KSP-AVC, Version=1.4.1.9, Culture=neutral, PublicKeyToken=null
-[Text 14:46:01.1577165]: LoadCfg
-[Text 14:46:01.1826475]: OVERRIDE_VERSION, currentVersion: 1.11.2, compatibleWithVersion: 1.12.3
-[Text 14:46:01.1826475]: OVERRIDE_VERSION, currentVersion: 1.3.*, compatibleWithVersion: 1.12.3
-[Text 14:46:01.1826475]: OVERRIDE_VERSION, currentVersion: 1.4.*, compatibleWithVersion: 1.12.3
-[Text 14:46:01.1836521]: OVERRIDE_VERSION, currentVersion: 1.5.*, compatibleWithVersion: 1.12.3
-[Text 14:46:01.1836521]: OVERRIDE_VERSION, currentVersion: 1.8.*, compatibleWithVersion: 1.12.3
-[Text 14:46:01.1836521]: OVERRIDE_VERSION, currentVersion: 1.9.*, compatibleWithVersion: 1.12.3
-[Text 14:46:01.1836521]: OVERRIDE_VERSION, currentVersion: 1.7.*, compatibleWithVersion: 1.12.3
-[Text 14:46:01.1836521]: OVERRIDE_VERSION, currentVersion: 1.6.*, compatibleWithVersion: 1.12.3
-[Text 14:46:01.1836521]: OVERRIDE_VERSION, currentVersion: 1.10.*, compatibleWithVersion: 1.12.3
-[Text 14:46:01.1836521]: OVERRIDE_VERSION, currentVersion: 1.11.*, compatibleWithVersion: 1.12.3
-[Text 14:46:01.1836521]: OVERRIDE_VERSION, currentVersion: 1.12.*, compatibleWithVersion: 1.12.3
-[Text 14:46:01.1926198]: INTERVAL: 0
-[Text 14:46:01.1926198]: NextRun: 1/1/0001 12:00:00 AM
-[Text 14:46:01.5247454]: [KSP-AVC] Version KSP-AVC, Version=1.4.1.9, Culture=neutral, PublicKeyToken=null
-[Text 14:46:01.8005892]: Starter was destroyed.
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\000_ClickThroughBlocker\ClickThroughBlocker.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\000_FilterExtensions\FilterExtension.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\000_TexturesUnlimited\TexturesUnlimited.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\000_Toolbar\Toolbar.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\001_ToolbarControl\ToolbarControl.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\AnimatedDecouplers\AnimatedDecouplers.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\ASET\PRC\ASET_PRC.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\Astrogator\Astrogator.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\AtmosphereAutopilot\AtmosphereAutopilot.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\B9PartSwitch\B9PartSwitch.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\BahaSP\BDAnimationModules.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\Benjee10_Suits\Version\Benjee10Suits.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\BetterTimeWarp\BetterTimeWarp.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\BurstAtomicThrustModule\BurstAtomicThrustModule.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\CactEye\CactEyeTelescopes.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\Chatterer\ChattererExtended.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\Chatterer\Plugins\Chatterer.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\CommunityCategoryKit\CCK.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\CommunityResourcePack\CRP.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\CommunityTechTree\Versioning\CommunityTechTree.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\ContractConfigurator\ContractConfigurator.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\ContractPacks\KerbinSpaceStation\BasesandStations.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\CustomAsteroids\CustomAsteroids.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\CustomPreLaunchChecks\CustomPreLaunchChecks.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\DaMichel\SphericalTanks\SphericalTanks.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\DistantObject\DistantObject.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\DockRotate\DockRotate.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\ExtraplanetaryLaunchpads\Plugins\ExtraplanetaryLaunchpads.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\FerramAerospaceResearch\FAR.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\Firespitter\Firespitter.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\FShangarExtender\FShangarExtender.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\JanitorsCloset\JanitorsCloset.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\JSI\JSIPartUtilities.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\JSI\JSIAdvTransparentPods\JSIAdvTransparentPods.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\JSI\RasterPropMonitor\RasterPropMonitor.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\KerbalEngineer\KerbalEngineer.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\KerbalJointReinforcement\KerbalJointReinforcement.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\KerbalKonstructs\KerbalKonstructs.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\KerbalReusabilityExpansion\KRE_VERSION.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\Kerbaltek\HyperEdit\HyperEdit.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\KerbinSideRemastered\KerbinSideRemastered.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\Kopernicus\Plugins\Kopernicus.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\kOS\kOS.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\kOS-Addons\StockCamera\KOS-StockCamera.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\kOS-SCANsat\kOS-SCANsat.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\KSCExtended\Version\KSC_Extended.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\KSCSwitcher\KSCSwitcher.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\KSP-AVC.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\KSPWheel\KSPWheel.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\KWRocketry\KWRocketryRebalanced.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\LaunchCountDown\Plugins\LaunchCountDown.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\LoadingTipsPlus\LoadingTipsPlus.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\MagicSmokeIndustries\InfernalRobotics.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\MagicSmokeIndustries\IRSequencer\IRSequencer_1.6.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\ModularFlightIntegrator\ModularFlightIntegrator.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\NASA_CountDown\NASA_CountDown.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\NavBallDockingAlignmentIndicatorCE\NavBallDockingAlignmentIndicatorCE.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\NavyFish\Plugins\Docking Port Alignment Indicator\DockingPortAlignmentIndicator.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\NearFutureConstruction\Versioning\NearFutureConstruction.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\NearFutureExploration\Versioning\NearFutureExploration.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\NearFutureLaunchVehicles\Versioning\NearFutureLaunchVehicles.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\NearFutureProps\Versioning\NearFutureProps.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\NearFutureSolar\Versioning\NearFutureSolar.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\OrbitalTug\OrbitalTug.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\PhysicsRangeExtender\PhysicsRangeExtender.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\PlanetaryBaseInc\PlanetaryBaseInc.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\ProbeControlRoom\ProbeControlRoom.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\RealChute\RealChute.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\RealFuels\RealFuels.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\RealFuels-Stock\RFStockalike.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\RealScaleBoosters\RealScaleBoosters.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\RealScaleBoostersStockalike\RealScaleBoostersStockalike.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\RemoteTech\RemoteTech.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\REPOSoftTech\DeepFreeze\DeepFreezeContinued.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\ReStock\Versioning\ReStock.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\RetractableLiftingSurface\RetractableLiftingSurface.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\RN_Salyut\SalyutStations.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\RN_Soviet_Rockets\SovietRockets.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\RN_Soyuz\SovietSpacecraft.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\SCANsat\SCANsat.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\SimpleAdjustableFairings\SimpleAdjustableFairings.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\SimpleAdjustableFairings-KWRocketry\SimpleAdjustableFairings-KWRocketry.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\SimpleConstruction\SimpleConstruction.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\SimpleConstruction\Plugins\EL.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\SolverEngines\SolverEngines.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\SpaceDust\Versioning\SpaceDust.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\StationScience\StationScience.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\Trajectories\Trajectories.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\TundraExploration\Versioning\TundraExploration.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\TundraSpaceCenter\Versioning\TundraSpaceCenter.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\UniversalStorage2\UniversalStorage2.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\VesselView\VesselView.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\Waterfall\Versioning\Waterfall.version
-[Text 14:46:02.1293457]: addonList: F:\Kerbal Space ProgramRSS\GameData\ZeroMiniAVC\ZeroMiniAVC.version
-[Text 14:46:03.7376013]: Identical remote version found: Using remote version information only.
-[Text 14:46:03.7435638]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/ClickThroughBlocker
+[Text 15:27:53.2489108]: [KSP-AVC] Version KSP-AVC, Version=1.4.1.9, Culture=neutral, PublicKeyToken=null
+[Text 15:27:53.3197127]: LoadCfg
+[Text 15:27:53.3436182]: OVERRIDE_VERSION, currentVersion: 1.11.2, compatibleWithVersion: 1.12.3
+[Text 15:27:53.3436182]: OVERRIDE_VERSION, currentVersion: 1.3.*, compatibleWithVersion: 1.12.3
+[Text 15:27:53.3436182]: OVERRIDE_VERSION, currentVersion: 1.4.*, compatibleWithVersion: 1.12.3
+[Text 15:27:53.3436182]: OVERRIDE_VERSION, currentVersion: 1.5.*, compatibleWithVersion: 1.12.3
+[Text 15:27:53.3436182]: OVERRIDE_VERSION, currentVersion: 1.8.*, compatibleWithVersion: 1.12.3
+[Text 15:27:53.3436182]: OVERRIDE_VERSION, currentVersion: 1.9.*, compatibleWithVersion: 1.12.3
+[Text 15:27:53.3436182]: OVERRIDE_VERSION, currentVersion: 1.7.*, compatibleWithVersion: 1.12.3
+[Text 15:27:53.3436182]: OVERRIDE_VERSION, currentVersion: 1.6.*, compatibleWithVersion: 1.12.3
+[Text 15:27:53.3436182]: OVERRIDE_VERSION, currentVersion: 1.10.*, compatibleWithVersion: 1.12.3
+[Text 15:27:53.3436182]: OVERRIDE_VERSION, currentVersion: 1.11.*, compatibleWithVersion: 1.12.3
+[Text 15:27:53.3436182]: OVERRIDE_VERSION, currentVersion: 1.12.*, compatibleWithVersion: 1.12.3
+[Text 15:27:53.3516290]: INTERVAL: 0
+[Text 15:27:53.3516290]: NextRun: 1/1/0001 12:00:00 AM
+[Text 15:27:53.6030364]: [KSP-AVC] Version KSP-AVC, Version=1.4.1.9, Culture=neutral, PublicKeyToken=null
+[Text 15:27:53.8369354]: Starter was destroyed.
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\000_ClickThroughBlocker\ClickThroughBlocker.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\000_FilterExtensions\FilterExtension.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\000_TexturesUnlimited\TexturesUnlimited.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\000_Toolbar\Toolbar.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\001_ToolbarControl\ToolbarControl.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\AnimatedDecouplers\AnimatedDecouplers.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\ASET\PRC\ASET_PRC.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\Astrogator\Astrogator.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\AtmosphereAutopilot\AtmosphereAutopilot.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\B9PartSwitch\B9PartSwitch.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\BahaSP\BDAnimationModules.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\Benjee10_Suits\Version\Benjee10Suits.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\BetterTimeWarp\BetterTimeWarp.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\BurstAtomicThrustModule\BurstAtomicThrustModule.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\CactEye\CactEyeTelescopes.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\Chatterer\ChattererExtended.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\Chatterer\Plugins\Chatterer.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\CommunityCategoryKit\CCK.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\CommunityResourcePack\CRP.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\CommunityTechTree\Versioning\CommunityTechTree.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\ContractConfigurator\ContractConfigurator.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\ContractPacks\KerbinSpaceStation\BasesandStations.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\CustomPreLaunchChecks\CustomPreLaunchChecks.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\DaMichel\SphericalTanks\SphericalTanks.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\DistantObject\DistantObject.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\DockRotate\DockRotate.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\ExtraplanetaryLaunchpads\Plugins\ExtraplanetaryLaunchpads.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\FerramAerospaceResearch\FAR.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\Firespitter\Firespitter.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\FShangarExtender\FShangarExtender.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\JanitorsCloset\JanitorsCloset.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\JSI\JSIPartUtilities.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\JSI\JSIAdvTransparentPods\JSIAdvTransparentPods.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\JSI\RasterPropMonitor\RasterPropMonitor.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\KerbalEngineer\KerbalEngineer.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\KerbalJointReinforcement\KerbalJointReinforcement.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\KerbalKonstructs\KerbalKonstructs.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\KerbalReusabilityExpansion\KRE_VERSION.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\Kerbaltek\HyperEdit\HyperEdit.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\kOS\kOS.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\kOS-Addons\StockCamera\KOS-StockCamera.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\kOS-SCANsat\kOS-SCANsat.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\KSCExtended\Version\KSC_Extended.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\KSCSwitcher\KSCSwitcher.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\KSP-AVC.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\KSPWheel\KSPWheel.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\KWRocketry\KWRocketryRebalanced.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\LaunchCountDown\Plugins\LaunchCountDown.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\LoadingTipsPlus\LoadingTipsPlus.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\MagicSmokeIndustries\InfernalRobotics.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\MagicSmokeIndustries\IRSequencer\IRSequencer_1.6.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\ModularFlightIntegrator\ModularFlightIntegrator.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\NASA_CountDown\NASA_CountDown.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\NavBallDockingAlignmentIndicatorCE\NavBallDockingAlignmentIndicatorCE.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\NavyFish\Plugins\Docking Port Alignment Indicator\DockingPortAlignmentIndicator.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\NearFutureConstruction\Versioning\NearFutureConstruction.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\NearFutureExploration\Versioning\NearFutureExploration.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\NearFutureLaunchVehicles\Versioning\NearFutureLaunchVehicles.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\NearFutureProps\Versioning\NearFutureProps.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\NearFutureSolar\Versioning\NearFutureSolar.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\OrbitalTug\OrbitalTug.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\PhysicsRangeExtender\PhysicsRangeExtender.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\PlanetaryBaseInc\PlanetaryBaseInc.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\ProbeControlRoom\ProbeControlRoom.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\RealChute\RealChute.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\RealFuels\RealFuels.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\RealFuels-Stock\RFStockalike.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\RealScaleBoosters\RealScaleBoosters.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\RealScaleBoostersStockalike\RealScaleBoostersStockalike.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\RemoteTech\RemoteTech.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\REPOSoftTech\DeepFreeze\DeepFreezeContinued.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\ReStock\Versioning\ReStock.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\RetractableLiftingSurface\RetractableLiftingSurface.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\RN_Salyut\SalyutStations.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\RN_Soviet_Rockets\SovietRockets.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\RN_Soyuz\SovietSpacecraft.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\SCANsat\SCANsat.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\SimpleAdjustableFairings\SimpleAdjustableFairings.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\SimpleAdjustableFairings-KWRocketry\SimpleAdjustableFairings-KWRocketry.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\SimpleConstruction\SimpleConstruction.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\SimpleConstruction\Plugins\EL.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\SolverEngines\SolverEngines.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\SpaceDust\Versioning\SpaceDust.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\StationScience\StationScience.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\Trajectories\Trajectories.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\TundraExploration\Versioning\TundraExploration.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\TundraSpaceCenter\Versioning\TundraSpaceCenter.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\UniversalStorage2\UniversalStorage2.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\VesselView\VesselView.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\Waterfall\Versioning\Waterfall.version
+[Text 15:27:54.1525410]: addonList: F:\Kerbal Space ProgramRSS\GameData\ZeroMiniAVC\ZeroMiniAVC.version
+[Text 15:27:55.8113521]: Identical remote version found: Using remote version information only.
+[Text 15:27:55.8218870]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/ClickThroughBlocker
 	NAME: ClickThroughBlocker
 	URL: http://ksp.spacetux.net/avc/ClickThroughBlocker
 	DOWNLOAD: https://github.com/linuxgurugamer/ClickThroughBlocker/releases
@@ -134,8 +131,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:04.3042499]: Identical remote version found: Using remote version information only.
-[Text 14:46:04.3042499]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/FilterExtension
+[Text 15:27:56.4033930]: Identical remote version found: Using remote version information only.
+[Text 15:27:56.4033930]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/FilterExtension
 	NAME: Filter Extensions
 	URL: http://ksp.spacetux.net/avc/FilterExtension
 	DOWNLOAD: https://github.com/LinuxGuruGamer/FilterExtension/releases
@@ -152,15 +149,15 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:04.3430364]: Version file contains errors: F:\Kerbal Space ProgramRSS\GameData\000_TexturesUnlimited\TexturesUnlimited.version
-[Text 14:46:04.3440554]: Error: KSP_VERSION_MIN greater than KSP_VERSION_MAX
-[Text 14:46:04.3440554]: Error: Error parsing: F:\Kerbal Space ProgramRSS\GameData\000_TexturesUnlimited\TexturesUnlimited.version
-[Exception 14:46:04.3450349]: System.ArgumentException: Not a valid JSON object.
+[Text 15:27:56.4380001]: Version file contains errors: F:\Kerbal Space ProgramRSS\GameData\000_TexturesUnlimited\TexturesUnlimited.version
+[Text 15:27:56.4380001]: Error: KSP_VERSION_MIN greater than KSP_VERSION_MAX
+[Text 15:27:56.4380001]: Error: Error parsing: F:\Kerbal Space ProgramRSS\GameData\000_TexturesUnlimited\TexturesUnlimited.version
+[Exception 15:27:56.4390014]: System.ArgumentException: Not a valid JSON object.
   at KSP_AVC.AddonInfo..ctor (System.String path, System.String json, KSP_AVC.AddonInfo+RemoteType remoteType) [0x000c2] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.Addon.FetchLocalInfo (System.String path) [0x00014] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.Addon.ProcessLocalInfo (System.Object state) [0x00012] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Text 14:46:04.9143051]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\000_Toolbar\Toolbar.version
+[Text 15:27:56.9090789]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\000_Toolbar\Toolbar.version
 	NAME: Toolbar
 	URL: http://ksp.spacetux.net/avc/Toolbar
 	DOWNLOAD: https://github.com/linuxgurugamer/ksp_toolbar/releases
@@ -176,7 +173,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
-[Text 14:46:04.9153043]: http://ksp.spacetux.net/avc/Toolbar
+[Text 15:27:56.9090789]: http://ksp.spacetux.net/avc/Toolbar
 	NAME: Toolbar
 	URL: http://ksp.spacetux.net/avc/Toolbar
 	DOWNLOAD: https://github.com/linuxgurugamer/ksp_toolbar/releases
@@ -194,8 +191,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleGitHubVersion: True
 	UpdateAvailable: False
 
-[Text 14:46:05.4804368]: Identical remote version found: Using remote version information only.
-[Text 14:46:05.4804368]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/ToolbarControl
+[Text 15:27:57.4575683]: Identical remote version found: Using remote version information only.
+[Text 15:27:57.4575683]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/ToolbarControl
 	NAME: ToolbarControl
 	URL: http://ksp.spacetux.net/avc/ToolbarControl
 	DOWNLOAD: https://github.com/linuxgurugamer/ToolbarControl/releases
@@ -212,8 +209,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:06.3543733]: Identical remote version found: Using remote version information only.
-[Text 14:46:06.3543733]: SetRemoteAvcInfo, RemoteInfo http://raw.githubusercontent.com/Starwaster/AnimatedDecouplers/master/GameData/AnimatedDecouplers/AnimatedDecouplers.version
+[Text 15:27:58.2084872]: Identical remote version found: Using remote version information only.
+[Text 15:27:58.2084872]: SetRemoteAvcInfo, RemoteInfo http://raw.githubusercontent.com/Starwaster/AnimatedDecouplers/master/GameData/AnimatedDecouplers/AnimatedDecouplers.version
 	NAME: Animated Decouplers
 	URL: http://raw.githubusercontent.com/Starwaster/AnimatedDecouplers/master/GameData/AnimatedDecouplers/AnimatedDecouplers.version
 	DOWNLOAD: http://github.com/Starwaster/AnimatedDecouplers/releases
@@ -230,8 +227,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:06.7437490]: Identical remote version found: Using remote version information only.
-[Text 14:46:06.7437490]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/ASET_PRC
+[Text 15:27:58.5776868]: Identical remote version found: Using remote version information only.
+[Text 15:27:58.5776868]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/ASET_PRC
 	NAME: ASET_PRC
 	URL: http://ksp.spacetux.net/avc/ASET_PRC
 	DOWNLOAD: https://github.com/linuxgurugamer/ASET_PRC_Rover/releases/latest
@@ -248,8 +245,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:07.4115524]: Identical remote version found: Using remote version information only.
-[Text 14:46:07.4115524]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/HebaruSan/Astrogator/master/GameData/Astrogator/Astrogator.version
+[Text 15:27:59.2059757]: Identical remote version found: Using remote version information only.
+[Text 15:27:59.2069585]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/HebaruSan/Astrogator/master/GameData/Astrogator/Astrogator.version
 	NAME: Astrogator
 	URL: https://raw.githubusercontent.com/HebaruSan/Astrogator/master/GameData/Astrogator/Astrogator.version
 	DOWNLOAD: https://github.com/HebaruSan/Astrogator/releases
@@ -266,8 +263,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
 
-[Text 14:46:08.5790276]: Identical remote version found: Using remote version information only.
-[Text 14:46:08.5790276]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?download&id=306
+[Text 15:28:00.2548521]: Identical remote version found: Using remote version information only.
+[Text 15:28:00.2548521]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?download&id=306
 	NAME: AtmosphereAutopilot
 	URL: http://ksp-avc.cybutek.net/version.php?id=306
 	DOWNLOAD: https://github.com/Boris-Barboris/AtmosphereAutopilot/releases
@@ -282,12 +279,12 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:08.8203745]: Exception fetching data from: https://s3.amazonaws.com/blowfish-ksp-b9partswitch-avc/ksp-1.10.1/B9PartSwitch.version
-[Text 14:46:08.8203745]: Status Code : 404 - NotFound
-[Text 14:46:08.8203745]: Status Description : Not Found
+[Text 15:28:00.5602228]: Exception fetching data from: https://s3.amazonaws.com/blowfish-ksp-b9partswitch-avc/ksp-1.10.1/B9PartSwitch.version
+[Text 15:28:00.5602228]: Status Code : 404 - NotFound
+[Text 15:28:00.5602228]: Status Description : Not Found
 
-[Text 14:46:09.3304813]: Identical remote version found: Using remote version information only.
-[Text 14:46:09.3304813]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/raidernick/BDAnimationModules/master/BahaSP/BDAnimationModules.version
+[Text 15:28:01.0783868]: Identical remote version found: Using remote version information only.
+[Text 15:28:01.0783868]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/raidernick/BDAnimationModules/master/BahaSP/BDAnimationModules.version
 	NAME: BD Animation Modules
 	URL: https://raw.githubusercontent.com/raidernick/BDAnimationModules/master/BahaSP/BDAnimationModules.version
 	DOWNLOAD: https://github.com/raidernick/BDAnimationModules/releases
@@ -304,8 +301,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:09.4713906]: Identical remote version found: Using remote version information only.
-[Text 14:46:09.4713906]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/benjee10/Benjee10_Suits/master/GameData/Benjee10_Suits/Version/Benjee10Suits.version
+[Text 15:28:01.2321117]: Identical remote version found: Using remote version information only.
+[Text 15:28:01.2321117]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/benjee10/Benjee10_Suits/master/GameData/Benjee10_Suits/Version/Benjee10Suits.version
 	NAME: Benjee10Suits
 	URL: https://raw.githubusercontent.com/benjee10/Benjee10_Suits/master/GameData/Benjee10_Suits/Version/Benjee10Suits.version
 	DOWNLOAD: https://github.com/benjee10/Benjee10_Suits/releases
@@ -320,8 +317,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
 
-[Text 14:46:09.9773141]: Identical remote version found: Using remote version information only.
-[Text 14:46:09.9783115]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/BetterTimeWarp
+[Text 15:28:01.7773732]: Identical remote version found: Using remote version information only.
+[Text 15:28:01.7773732]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/BetterTimeWarp
 	NAME: BetterTimeWarpContinued
 	URL: http://ksp.spacetux.net/avc/BetterTimeWarp
 	DOWNLOAD: https://github.com/linuxgurugamer/BetterTimeWarpContinued/releases
@@ -338,8 +335,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:10.2709271]: Identical remote version found: Using remote version information only.
-[Text 14:46:10.2709271]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/BurstAtomicThrustModule
+[Text 15:28:02.0674953]: Identical remote version found: Using remote version information only.
+[Text 15:28:02.0674953]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/BurstAtomicThrustModule
 	NAME: BurstAtomicThrustModule
 	URL: http://ksp.spacetux.net/avc/BurstAtomicThrustModule
 	DOWNLOAD: https://forum.kerbalspaceprogram.com/index.php?/topic/182877-151-161-kerbal-construction-time-unrapid-planned-assembly/
@@ -356,8 +353,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:11.3454379]: Identical remote version found: Using remote version information only.
-[Text 14:46:11.3454379]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/icedown/CactEye-2/master/CactEyeOptics/GameData/CactEye/CactEyeTelescopes.version
+[Text 15:28:03.1545594]: Identical remote version found: Using remote version information only.
+[Text 15:28:03.1545594]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/icedown/CactEye-2/master/CactEyeOptics/GameData/CactEye/CactEyeTelescopes.version
 	NAME: CactEye Telescopes
 	URL: https://raw.githubusercontent.com/icedown/CactEye-2/master/CactEyeOptics/GameData/CactEye/CactEyeTelescopes.version
 	DOWNLOAD: https://github.com/icedown/CactEye-2/releases/download/1.5.1.15/CactEyeOptics1.5.1.15.zip
@@ -372,19 +369,19 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:14.3325451]: Version file contains errors: http://forum.kerbalspaceprogram.com/index.php?/topic/160545-122-chatterer-extended-more-kerbalized-chatter-for-chatterer-v06/
-[Text 14:46:14.3325451]: Error: Error in Json.Deserialize, file: http://forum.kerbalspaceprogram.com/index.php?/topic/160545-122-chatterer-extended-more-kerbalized-chatter-for-chatterer-v06/
-[Text 14:46:14.3325451]: Error: Error parsing: http://forum.kerbalspaceprogram.com/index.php?/topic/160545-122-chatterer-extended-more-kerbalized-chatter-for-chatterer-v06/
-[Text 14:46:14.3325451]: Exception with URL: http://forum.kerbalspaceprogram.com/index.php?/topic/160545-122-chatterer-extended-more-kerbalized-chatter-for-chatterer-v06/
-[Exception 14:46:14.3325451]: System.ArgumentException: Not a valid JSON object.
+[Text 15:28:04.4277440]: Version file contains errors: http://forum.kerbalspaceprogram.com/index.php?/topic/160545-122-chatterer-extended-more-kerbalized-chatter-for-chatterer-v06/
+[Text 15:28:04.4277440]: Error: Error in Json.Deserialize, file: http://forum.kerbalspaceprogram.com/index.php?/topic/160545-122-chatterer-extended-more-kerbalized-chatter-for-chatterer-v06/
+[Text 15:28:04.4277440]: Error: Error parsing: http://forum.kerbalspaceprogram.com/index.php?/topic/160545-122-chatterer-extended-more-kerbalized-chatter-for-chatterer-v06/
+[Text 15:28:04.4277440]: Exception with URL: http://forum.kerbalspaceprogram.com/index.php?/topic/160545-122-chatterer-extended-more-kerbalized-chatter-for-chatterer-v06/
+[Exception 15:28:04.4287316]: System.ArgumentException: Not a valid JSON object.
   at KSP_AVC.AddonInfo..ctor (System.String path, System.String json, KSP_AVC.AddonInfo+RemoteType remoteType) [0x000c2] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.Addon.SetRemoteAvcInfo (System.String json) [0x0000c] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.Addon.FetchRemoteInfo () [0x000c1] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.Addon.ProcessRemoteInfo (System.Object state) [0x0002a] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
 
-[Text 14:46:15.1926408]: Identical remote version found: Using remote version information only.
-[Text 14:46:15.1926408]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=27
+[Text 15:28:05.2161703]: Identical remote version found: Using remote version information only.
+[Text 15:28:05.2161703]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=27
 	NAME: Chatterer
 	URL: http://ksp-avc.cybutek.net/version.php?id=27
 	DOWNLOAD: http://forum.kerbalspaceprogram.com/threads/92324-0-24-2-Chatterer-v-0-6-1-Aug-31-2014
@@ -399,8 +396,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
 
-[Text 14:46:15.3649140]: Exception with URL: https://raw.githubusercontent.com/BobPalmer/CommunityCategoryKit/master/FOR_RELEASE/GameData/CommunityCategoryKit/CCK.version
-[Exception 14:46:15.3649140]: System.ArgumentException: No data after parsing Github Json
+[Text 15:28:05.6283116]: Exception with URL: https://raw.githubusercontent.com/BobPalmer/CommunityCategoryKit/master/FOR_RELEASE/GameData/CommunityCategoryKit/CCK.version
+[Exception 15:28:05.6283116]: System.ArgumentException: No data after parsing Github Json
   at KSP_AVC.AddonInfo+GitHubInfo.ParseGitHubJson (System.String json) [0x0002f] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.AddonInfo+GitHubInfo.FetchRemoteData () [0x000da] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.AddonInfo.FetchRemoteData () [0x00011] in <2d19027fcac14ab6b2708f9d52adf033>:0 
@@ -409,8 +406,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at KSP_AVC.Addon.ProcessRemoteInfo (System.Object state) [0x0002a] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
 
-[Text 14:46:15.5537722]: Exception with URL: https://raw.githubusercontent.com/BobPalmer/CommunityResourcePack/master/FOR_RELEASE/GameData/CommunityResourcePack/CRP.version
-[Exception 14:46:15.5537722]: System.ArgumentException: No data after parsing Github Json
+[Text 15:28:06.2385832]: Exception with URL: https://raw.githubusercontent.com/BobPalmer/CommunityResourcePack/master/FOR_RELEASE/GameData/CommunityResourcePack/CRP.version
+[Exception 15:28:06.2385832]: System.ArgumentException: No data after parsing Github Json
   at KSP_AVC.AddonInfo+GitHubInfo.ParseGitHubJson (System.String json) [0x0002f] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.AddonInfo+GitHubInfo.FetchRemoteData () [0x000da] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.AddonInfo.FetchRemoteData () [0x00011] in <2d19027fcac14ab6b2708f9d52adf033>:0 
@@ -419,8 +416,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at KSP_AVC.Addon.ProcessRemoteInfo (System.Object state) [0x0002a] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
 
-[Text 14:46:15.6386752]: Identical remote version found: Using remote version information only.
-[Text 14:46:15.6386752]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/CommunityTechTree/master/GameData/CommunityTechTree/Versioning/CommunityTechTree.version
+[Text 15:28:06.6575159]: Identical remote version found: Using remote version information only.
+[Text 15:28:06.6575159]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/CommunityTechTree/master/GameData/CommunityTechTree/Versioning/CommunityTechTree.version
 	NAME: CommunityTechTree
 	URL: https://raw.githubusercontent.com/post-kerbin-mining-corporation/CommunityTechTree/master/GameData/CommunityTechTree/Versioning/CommunityTechTree.version
 	DOWNLOAD: http://forum.kerbalspaceprogram.com/index.php?/topic/90530-113-community-tech-tree-24-last-updated-180416
@@ -435,8 +432,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:16.3847038]: Identical remote version found: Using remote version information only.
-[Text 14:46:16.3857089]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/jrossignol/ContractConfigurator/master/GameData/ContractConfigurator/ContractConfigurator.version
+[Text 15:28:08.0797677]: Identical remote version found: Using remote version information only.
+[Text 15:28:08.0797677]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/jrossignol/ContractConfigurator/master/GameData/ContractConfigurator/ContractConfigurator.version
 	NAME: Contract Configurator
 	URL: https://raw.githubusercontent.com/jrossignol/ContractConfigurator/master/GameData/ContractConfigurator/ContractConfigurator.version
 	DOWNLOAD: https://github.com/jrossignol/ContractConfigurator/releases
@@ -453,8 +450,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:16.9403035]: Identical remote version found: Using remote version information only.
-[Text 14:46:16.9403035]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/BasesandStations
+[Text 15:28:08.7504673]: Identical remote version found: Using remote version information only.
+[Text 15:28:08.7504673]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/BasesandStations
 	NAME: Contract Pack: Bases and Stations
 	URL: http://ksp.spacetux.net/avc/BasesandStations
 	DOWNLOAD: https://github.com/linuxgurugamer/KerbinSpaceStation/releases
@@ -471,26 +468,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:17.3487550]: Identical remote version found: Using remote version information only.
-[Text 14:46:17.3497468]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/Starstrider42/Custom-Asteroids/master/CustomAsteroids.version
-	NAME: Custom Asteroids
-	URL: https://raw.githubusercontent.com/Starstrider42/Custom-Asteroids/master/CustomAsteroids.version
-	DOWNLOAD: https://github.com/Starstrider42/Custom-Asteroids/releases/tag/v1.9.0
-	GITHUB: Starstrider42/Custom-Asteroids
-		LatestRelease: 1.9
-		AllowPreRelease: False
-	DISALLOW_VERSION_OVERRIDE: False
-	VERSION: 1.9
-	KSP_VERSION: 1.10
-	KSP_VERSION_MIN: 1.10
-	KSP_VERSION_MAX: 1.12
-	CompatibleKspVersion: False
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: False
-	CompatibleGitHubVersion: True
-
-[Text 14:46:17.5415843]: Identical remote version found: Using remote version information only.
-[Text 14:46:17.5415843]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/KSP-RO/CustomPreLaunchChecks/master/GameData/CustomPreLaunchChecks/CustomPreLaunchChecks.version
+[Text 15:28:09.3006338]: Identical remote version found: Using remote version information only.
+[Text 15:28:09.3006338]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/KSP-RO/CustomPreLaunchChecks/master/GameData/CustomPreLaunchChecks/CustomPreLaunchChecks.version
 	NAME: CustomPrelaunchChecks
 	URL: https://raw.githubusercontent.com/KSP-RO/CustomPreLaunchChecks/master/GameData/CustomPreLaunchChecks/CustomPreLaunchChecks.version
 	DOWNLOAD: https://github.com/KSP-RO/CustomPreLaunchChecks/releases
@@ -505,12 +484,12 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:17.6946115]: Exception fetching data from: https://raw.githubusercontent.com/zer0Kerbal/DaMichel/GameData/DaMichel/SphericalTanks/SphericalTanks.version
-[Text 14:46:17.6946115]: Status Code : 404 - NotFound
-[Text 14:46:17.6946115]: Status Description : Not Found
+[Text 15:28:09.5309011]: Exception fetching data from: https://raw.githubusercontent.com/zer0Kerbal/DaMichel/GameData/DaMichel/SphericalTanks/SphericalTanks.version
+[Text 15:28:09.5318204]: Status Code : 404 - NotFound
+[Text 15:28:09.5318204]: Status Description : Not Found
 
-[Text 14:46:17.9335116]: Identical remote version found: Using remote version information only.
-[Text 14:46:17.9335116]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/net-lisias-ksp/DistantObject/master/DistantObject.version
+[Text 15:28:10.1244930]: Identical remote version found: Using remote version information only.
+[Text 15:28:10.1244930]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/net-lisias-ksp/DistantObject/master/DistantObject.version
 	NAME: Distant Object Enhancement (DOE) /L
 	URL: https://raw.githubusercontent.com/net-lisias-ksp/DistantObject/master/DistantObject.version
 	DOWNLOAD: https://github.com/net-lisias-ksp/DistantObject/releases
@@ -525,8 +504,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:18.5506475]: Identical remote version found: Using remote version information only.
-[Text 14:46:18.5506475]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/peteletroll/DockRotate/master/Resources/DockRotate.version
+[Text 15:28:10.8004028]: Identical remote version found: Using remote version information only.
+[Text 15:28:10.8004028]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/peteletroll/DockRotate/master/Resources/DockRotate.version
 	NAME: DockRotate
 	URL: https://raw.githubusercontent.com/peteletroll/DockRotate/master/Resources/DockRotate.version
 	DOWNLOAD: https://github.com/peteletroll/DockRotate/releases
@@ -543,8 +522,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:20.0152621]: Identical remote version found: Using remote version information only.
-[Text 14:46:20.0152621]: SetRemoteAvcInfo, RemoteInfo http://taniwha.org/~bill/ExtraplanetaryLaunchpads.version
+[Text 15:28:13.3976205]: Identical remote version found: Using remote version information only.
+[Text 15:28:13.3976205]: SetRemoteAvcInfo, RemoteInfo http://taniwha.org/~bill/ExtraplanetaryLaunchpads.version
 	NAME: ExtraplanetaryLaunchpads
 	URL: http://taniwha.org/~bill/ExtraplanetaryLaunchpads.version
 	DOWNLOAD: http://taniwha.org/~bill/ExtraplanetaryLaunchpads_v6.99.1.zip
@@ -559,8 +538,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:20.4917039]: Identical remote version found: Using remote version information only.
-[Text 14:46:20.4917039]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/dkavolis/Ferram-Aerospace-Research/master/GameData/FerramAerospaceResearch/FAR.version
+[Text 15:28:14.3082001]: Identical remote version found: Using remote version information only.
+[Text 15:28:14.3090716]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/dkavolis/Ferram-Aerospace-Research/master/GameData/FerramAerospaceResearch/FAR.version
 	NAME: Ferram Aerospace Research
 	URL: https://raw.githubusercontent.com/dkavolis/Ferram-Aerospace-Research/master/GameData/FerramAerospaceResearch/FAR.version
 	DOWNLOAD: https://github.com/dkavolis/Ferram-Aerospace-Research/releases
@@ -577,12 +556,12 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:20.6225772]: Exception fetching data from: https://raw.githubusercontent.com/snjo/Firespitter/master/For%20release/Firespitter/Firespitter.version
-[Text 14:46:20.6225772]: Status Code : 404 - NotFound
-[Text 14:46:20.6225772]: Status Description : Not Found
+[Text 15:28:14.4789331]: Exception fetching data from: https://raw.githubusercontent.com/snjo/Firespitter/master/For%20release/Firespitter/Firespitter.version
+[Text 15:28:14.4799847]: Status Code : 404 - NotFound
+[Text 15:28:14.4799847]: Status Description : Not Found
 
-[Text 14:46:20.6914006]: Identical remote version found: Using remote version information only.
-[Text 14:46:20.6914006]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/FShangarExtender
+[Text 15:28:14.8304566]: Identical remote version found: Using remote version information only.
+[Text 15:28:14.8304566]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/FShangarExtender
 	NAME: FShangarExtender
 	URL: http://ksp.spacetux.net/avc/FShangarExtender
 	DOWNLOAD: NULL
@@ -597,8 +576,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:21.2639206]: Identical remote version found: Using remote version information only.
-[Text 14:46:21.2639206]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/JanitorsCloset
+[Text 15:28:15.5197395]: Identical remote version found: Using remote version information only.
+[Text 15:28:15.5197395]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/JanitorsCloset
 	NAME: JanitorsCloset
 	URL: http://ksp.spacetux.net/avc/JanitorsCloset
 	DOWNLOAD: http://spacedock.info/mod/944
@@ -615,7 +594,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:21.5892171]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\JSI\JSIPartUtilities.version
+[Text 15:28:16.1057798]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\JSI\JSIPartUtilities.version
 	NAME: JSIPartUtilities
 	URL: http://ksp.spacetux.net/avc/JSIPartUtilities
 	DOWNLOAD: NULL
@@ -631,7 +610,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
-[Text 14:46:21.5892171]: http://ksp.spacetux.net/avc/JSIPartUtilities
+[Text 15:28:16.1057798]: http://ksp.spacetux.net/avc/JSIPartUtilities
 	NAME: JSIPartUtilities
 	URL: http://ksp.spacetux.net/avc/JSIPartUtilities
 	DOWNLOAD: https://github.com/linuxgurugamer/PartUtilities/releases/tag/0.5.0.5
@@ -649,8 +628,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleGitHubVersion: True
 	UpdateAvailable: False
 
-[Text 14:46:22.4482797]: Identical remote version found: Using remote version information only.
-[Text 14:46:22.4482797]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=287
+[Text 15:28:17.7026047]: Identical remote version found: Using remote version information only.
+[Text 15:28:17.7026047]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=287
 	NAME: JSIAdvTransparentPods
 	URL: http://ksp-avc.cybutek.net/version.php?id=287
 	DOWNLOAD: http://spacedock.info/mod/598/JSI%20Advanced%20Transparent%20Pods
@@ -665,8 +644,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:22.5834093]: Identical remote version found: Using remote version information only.
-[Text 14:46:22.5834093]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/JonnyOThan/RasterPropMonitor/master/GameData/JSI/RasterPropMonitor/RasterPropMonitor.version
+[Text 15:28:18.1118311]: Identical remote version found: Using remote version information only.
+[Text 15:28:18.1118311]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/JonnyOThan/RasterPropMonitor/master/GameData/JSI/RasterPropMonitor/RasterPropMonitor.version
 	NAME: RasterPropMonitor
 	URL: https://raw.githubusercontent.com/JonnyOThan/RasterPropMonitor/master/GameData/JSI/RasterPropMonitor/RasterPropMonitor.version
 	DOWNLOAD: https://github.com/JonnyOThan/RasterPropMonitor/releases
@@ -681,8 +660,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:22.6897714]: Identical remote version found: Using remote version information only.
-[Text 14:46:22.6897714]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/jrbudda/KerbalEngineer/master/Output/KerbalEngineer/KerbalEngineer.version
+[Text 15:28:18.5306702]: Identical remote version found: Using remote version information only.
+[Text 15:28:18.5306702]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/jrbudda/KerbalEngineer/master/Output/KerbalEngineer/KerbalEngineer.version
 	NAME: Kerbal Engineer Redux
 	URL: https://raw.githubusercontent.com/jrbudda/KerbalEngineer/master/Output/KerbalEngineer/KerbalEngineer.version
 	DOWNLOAD: https://github.com/jrbudda/KerbalEngineer/releases
@@ -697,12 +676,12 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:22.8354388]: Exception fetching data from: https://raw.githubusercontent.com/meirumeiru/Kerbal-Joint-Reinforcement/raw/master/Resources/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version
-[Text 14:46:22.8354388]: Status Code : 404 - NotFound
-[Text 14:46:22.8354388]: Status Description : Not Found
+[Text 15:28:18.7272757]: Exception fetching data from: https://raw.githubusercontent.com/meirumeiru/Kerbal-Joint-Reinforcement/raw/master/Resources/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version
+[Text 15:28:18.7282761]: Status Code : 404 - NotFound
+[Text 15:28:18.7282761]: Status Description : Not Found
 
-[Text 14:46:22.9748745]: Identical remote version found: Using remote version information only.
-[Text 14:46:22.9758633]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/KSP-RO/Kerbal-Konstructs/master/GameData/KerbalKonstructs/KerbalKonstructs.version
+[Text 15:28:19.1370383]: Identical remote version found: Using remote version information only.
+[Text 15:28:19.1370383]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/KSP-RO/Kerbal-Konstructs/master/GameData/KerbalKonstructs/KerbalKonstructs.version
 	NAME: KerbalKonstructs
 	URL: https://raw.githubusercontent.com/KSP-RO/Kerbal-Konstructs/master/GameData/KerbalKonstructs/KerbalKonstructs.version
 	DOWNLOAD: https://github.com/KSP-RO/Kerbal-Konstructs/releases
@@ -717,8 +696,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:23.1135052]: Identical remote version found: Using remote version information only.
-[Text 14:46:23.1135052]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/damonvv/Kerbal-Reusability-Expansion/master/GameData/KerbalReusabilityExpansion/KRE_VERSION.version
+[Text 15:28:19.5434111]: Identical remote version found: Using remote version information only.
+[Text 15:28:19.5434111]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/damonvv/Kerbal-Reusability-Expansion/master/GameData/KerbalReusabilityExpansion/KRE_VERSION.version
 	NAME: <b>Kerbal Reusability Expansion</b>
 	URL: https://raw.githubusercontent.com/damonvv/Kerbal-Reusability-Expansion/master/GameData/KerbalReusabilityExpansion/KRE_VERSION.version
 	DOWNLOAD: https://spacedock.info/mod/841/Kerbal%20Reusability%20Expansion
@@ -733,8 +712,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:23.2603289]: Identical remote version found: Using remote version information only.
-[Text 14:46:23.2603289]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/Ezriilc/HyperEdit/master/HyperEdit.version
+[Text 15:28:19.7816162]: Identical remote version found: Using remote version information only.
+[Text 15:28:19.7816162]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/Ezriilc/HyperEdit/master/HyperEdit.version
 	NAME: HyperEdit
 	URL: https://raw.githubusercontent.com/Ezriilc/HyperEdit/master/HyperEdit.version
 	DOWNLOAD: http://www.kerbaltek.com/hyperedit
@@ -749,40 +728,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
 
-[Text 14:46:24.1131803]: Identical remote version found: Using remote version information only.
-[Text 14:46:24.1131803]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=610
-	NAME: Kerbin Side Remastered
-	URL: http://ksp-avc.cybutek.net/version.php?id=610
-	DOWNLOAD: https://spacedock.info/mod/1823/Kerbin%20Side%20Remastered
-	GITHUB: NULL
-	DISALLOW_VERSION_OVERRIDE: False
-	VERSION: 1.0.1
-	KSP_VERSION: 1.7.3
-	KSP_VERSION_MIN: 1.3.1
-	KSP_VERSION_MAX: 1.9
-	CompatibleKspVersion: False
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: False
-	CompatibleGitHubVersion: True
-
-[Text 14:46:24.3704288]: Identical remote version found: Using remote version information only.
-[Text 14:46:24.3704288]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/Kopernicus/Kopernicus/master/build/KSP19+/GameData/Kopernicus/Plugins/Kopernicus.version
-	NAME: Kopernicus
-	URL: https://raw.githubusercontent.com/Kopernicus/Kopernicus/master/build/KSP19+/GameData/Kopernicus/Plugins/Kopernicus.version
-	DOWNLOAD: https://github.com/Kopernicus/Kopernicus/releases/latest
-	GITHUB: NULL
-	DISALLOW_VERSION_OVERRIDE: False
-	VERSION: 1.12.1.90
-	KSP_VERSION: Any
-	KSP_VERSION_MIN: 1.9
-	KSP_VERSION_MAX: 1.12.99
-	CompatibleKspVersion: True
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: True
-	CompatibleGitHubVersion: True
-
-[Text 14:46:25.2694073]: Identical remote version found: Using remote version information only.
-[Text 14:46:25.2694073]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/KSP-KOS/KOS/master/Resources/GameData/kOS/kOS.version
+[Text 15:28:21.3961945]: Identical remote version found: Using remote version information only.
+[Text 15:28:21.3961945]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/KSP-KOS/KOS/master/Resources/GameData/kOS/kOS.version
 	NAME: kOS
 	URL: https://raw.githubusercontent.com/KSP-KOS/KOS/master/Resources/GameData/kOS/kOS.version
 	DOWNLOAD: TODO - when release...
@@ -799,8 +746,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
 
-[Text 14:46:25.7253714]: Identical remote version found: Using remote version information only.
-[Text 14:46:25.7263640]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/JonnyOThan/KOS-StockCamera/master/GameData/kOS-Addons/StockCamera/KOS-StockCamera.version
+[Text 15:28:22.2217923]: Identical remote version found: Using remote version information only.
+[Text 15:28:22.2217923]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/JonnyOThan/KOS-StockCamera/master/GameData/kOS-Addons/StockCamera/KOS-StockCamera.version
 	NAME: kOS-StockCamera
 	URL: https://raw.githubusercontent.com/JonnyOThan/KOS-StockCamera/master/GameData/kOS-Addons/StockCamera/KOS-StockCamera.version
 	DOWNLOAD: https://github.com/JonnyOThan/KOS-StockCamera/releases
@@ -817,8 +764,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
 
-[Text 14:46:26.0983496]: Identical remote version found: Using remote version information only.
-[Text 14:46:26.0983496]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/JonnyOThan/Kos-Scansat/master/GameData/kOS-SCANsat/kOS-SCANsat.version
+[Text 15:28:22.8227296]: Identical remote version found: Using remote version information only.
+[Text 15:28:22.8227296]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/JonnyOThan/Kos-Scansat/master/GameData/kOS-SCANsat/kOS-SCANsat.version
 	NAME: kOS-SCANsat
 	URL: https://raw.githubusercontent.com/JonnyOThan/Kos-Scansat/master/GameData/kOS-SCANsat/kOS-SCANsat.version
 	DOWNLOAD: https://github.com/JonnyOThan/Kos-Scansat/releases
@@ -835,16 +782,16 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:26.2047445]: Exception fetching data from: https://raw.githubusercontent.com/JadeOfMaar/KSC_Extended
-[Text 14:46:26.2047445]: Status Code : 400 - BadRequest
-[Text 14:46:26.2047445]: Status Description : Bad Request
+[Text 15:28:23.0303906]: Exception fetching data from: https://raw.githubusercontent.com/JadeOfMaar/KSC_Extended
+[Text 15:28:23.0303906]: Status Code : 400 - BadRequest
+[Text 15:28:23.0303906]: Status Description : Bad Request
 
-[Text 14:46:26.3463028]: Exception fetching data from: https://raw.githubusercontent.com/KSP-RO/KSCSwitcher/raw/master/GameData/KSCSwitcher/KSCSwitcher.version
-[Text 14:46:26.3463028]: Status Code : 404 - NotFound
-[Text 14:46:26.3463028]: Status Description : Not Found
+[Text 15:28:23.2399101]: Exception fetching data from: https://raw.githubusercontent.com/KSP-RO/KSCSwitcher/raw/master/GameData/KSCSwitcher/KSCSwitcher.version
+[Text 15:28:23.2399101]: Status Code : 404 - NotFound
+[Text 15:28:23.2399101]: Status Description : Not Found
 
-[Text 14:46:26.9925646]: Identical remote version found: Using remote version information only.
-[Text 14:46:26.9935736]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/KSP-AVC
+[Text 15:28:24.4198269]: Identical remote version found: Using remote version information only.
+[Text 15:28:24.4198269]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/KSP-AVC
 	NAME: KSP-AVC Plugin
 	URL: http://ksp.spacetux.net/avc/KSP-AVC
 	DOWNLOAD: https://github.com/linuxgurugamer/KSPAddonVersionChecker/releases
@@ -861,8 +808,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:28.0986670]: Identical remote version found: Using remote version information only.
-[Text 14:46:28.0986670]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=429
+[Text 15:28:26.5573933]: Identical remote version found: Using remote version information only.
+[Text 15:28:26.5573933]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=429
 	NAME: KSPWheel
 	URL: http://ksp-avc.cybutek.net/version.php?id=429
 	DOWNLOAD: https://github.com/shadowmage45/KSPWheel/releases/tag/0.16.14.33
@@ -877,8 +824,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:28.1805860]: Identical remote version found: Using remote version information only.
-[Text 14:46:28.1805860]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/KWRocketryRebalanced
+[Text 15:28:26.9258157]: Identical remote version found: Using remote version information only.
+[Text 15:28:26.9258157]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/KWRocketryRebalanced
 	NAME: KWRocketryRebalanced
 	URL: http://ksp.spacetux.net/avc/KWRocketryRebalanced
 	DOWNLOAD: https://github.com/linuxgurugamer/KWRocketryRedux/releases
@@ -893,8 +840,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:28.5687351]: Identical remote version found: Using remote version information only.
-[Text 14:46:28.5697367]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=61
+[Text 15:28:27.7473435]: Identical remote version found: Using remote version information only.
+[Text 15:28:27.7473435]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=61
 	NAME: LaunchCountDown
 	URL: http://ksp-avc.cybutek.net/version.php?id=61
 	DOWNLOAD: http://forum.kerbalspaceprogram.com/threads/42859-0-24-2-Athlonic-Electronics-LCD-Launch-CountDown-v1-7-2-%28Aug-10-2014%29
@@ -909,8 +856,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
 
-[Text 14:46:28.8569640]: Identical remote version found: Using remote version information only.
-[Text 14:46:28.8569640]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=311
+[Text 15:28:28.3651547]: Identical remote version found: Using remote version information only.
+[Text 15:28:28.3651547]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=311
 	NAME: LoadingTipsPlus
 	URL: http://ksp-avc.cybutek.net/version.php?id=311
 	DOWNLOAD: NULL
@@ -925,16 +872,16 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
 
-[Text 14:46:28.9976997]: Exception fetching data from: https://raw.githubusercontent.com/meirumeiru/InfernalRobotics/raw/develop/Resources/GameData/MagicSmokeIndustries/InfernalRobotics.version
-[Text 14:46:28.9976997]: Status Code : 404 - NotFound
-[Text 14:46:28.9976997]: Status Description : Not Found
+[Text 15:28:28.7697673]: Exception fetching data from: https://raw.githubusercontent.com/meirumeiru/InfernalRobotics/raw/develop/Resources/GameData/MagicSmokeIndustries/InfernalRobotics.version
+[Text 15:28:28.7697673]: Status Code : 404 - NotFound
+[Text 15:28:28.7697673]: Status Description : Not Found
 
-[Text 14:46:29.1431222]: Exception fetching data from: https://raw.githubusercontent.com/ValrenStarlord/IR-Sequencer/master/Resources/GameData/MagicSmokeIndustries/IRSequencer/IRSequencer_1.6.version
-[Text 14:46:29.1431222]: Status Code : 404 - NotFound
-[Text 14:46:29.1431222]: Status Description : Not Found
+[Text 15:28:29.1654566]: Exception fetching data from: https://raw.githubusercontent.com/ValrenStarlord/IR-Sequencer/master/Resources/GameData/MagicSmokeIndustries/IRSequencer/IRSequencer_1.6.version
+[Text 15:28:29.1654566]: Status Code : 404 - NotFound
+[Text 15:28:29.1654566]: Status Description : Not Found
 
-[Text 14:46:30.0731635]: Identical remote version found: Using remote version information only.
-[Text 14:46:30.0731635]: SetRemoteAvcInfo, RemoteInfo https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/lastSuccessfulBuild/artifact/ModularFlightIntegrator/ModularFlightIntegrator.version
+[Text 15:28:30.3993454]: Identical remote version found: Using remote version information only.
+[Text 15:28:30.3993454]: SetRemoteAvcInfo, RemoteInfo https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/lastSuccessfulBuild/artifact/ModularFlightIntegrator/ModularFlightIntegrator.version
 	NAME: ModularFlightIntegrator
 	URL: https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/lastSuccessfulBuild/artifact/ModularFlightIntegrator/ModularFlightIntegrator.version
 	DOWNLOAD: https://forum.kerbalspaceprogram.com/index.php?/topic/106369-x
@@ -949,7 +896,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:30.5848036]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\NASA_CountDown\NASA_CountDown.version
+[Text 15:28:31.0754070]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\NASA_CountDown\NASA_CountDown.version
 	NAME: NASA_CountDown
 	URL: http://ksp.spacetux.net/avc/NASA_CountDown
 	DOWNLOAD: https://github.com/linuxgurugamer/LaunchCountdownEx/releases
@@ -965,7 +912,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
-[Text 14:46:30.5848036]: http://ksp.spacetux.net/avc/NASA_CountDown
+[Text 15:28:31.0754070]: http://ksp.spacetux.net/avc/NASA_CountDown
 	NAME: NASA_CountDown
 	URL: http://ksp.spacetux.net/avc/NASA_CountDown
 	DOWNLOAD: https://github.com/linuxgurugamer/LaunchCountdownEx/releases
@@ -983,8 +930,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleGitHubVersion: True
 	UpdateAvailable: False
 
-[Text 14:46:30.8842206]: Identical remote version found: Using remote version information only.
-[Text 14:46:30.8842206]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/NavBallDockingAlignmentIndicatorCE
+[Text 15:28:31.8729141]: Identical remote version found: Using remote version information only.
+[Text 15:28:31.8729141]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/NavBallDockingAlignmentIndicatorCE
 	NAME: NavBallDockingAlignmentIndicatorCE
 	URL: http://ksp.spacetux.net/avc/NavBallDockingAlignmentIndicatorCE
 	DOWNLOAD: https://github.com/linuxgurugamer/NavBallDockingAlignmentIndicatorCE/releases
@@ -1001,7 +948,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:31.1486152]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\NavyFish\Plugins\Docking Port Alignment Indicator\DockingPortAlignmentIndicator.version
+[Text 15:28:32.4431327]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\NavyFish\Plugins\Docking Port Alignment Indicator\DockingPortAlignmentIndicator.version
 	NAME: Docking Port Alignment Indicator
 	URL: http://ksp-avc.cybutek.net/version.php?id=361
 	DOWNLOAD: http://forum.kerbalspaceprogram.com/index.php?showtopic=40423
@@ -1017,7 +964,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
-[Text 14:46:31.1486152]: http://ksp-avc.cybutek.net/version.php?id=361
+[Text 15:28:32.4431327]: http://ksp-avc.cybutek.net/version.php?id=361
 	NAME: Docking Port Alignment Indicator
 	URL: http://ksp-avc.cybutek.net/version.php?id=361
 	DOWNLOAD: http://forum.kerbalspaceprogram.com/index.php?/topic/40423-11-docking-port-alignment-indicator-version-621-beta-updated-04122016/
@@ -1033,8 +980,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleGitHubVersion: True
 	UpdateAvailable: False
 
-[Text 14:46:31.2958139]: Identical remote version found: Using remote version information only.
-[Text 14:46:31.2958139]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureConstruction/master/GameData/NearFutureConstruction/Versioning/NearFutureConstruction.version
+[Text 15:28:32.6501493]: Identical remote version found: Using remote version information only.
+[Text 15:28:32.6512083]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureConstruction/master/GameData/NearFutureConstruction/Versioning/NearFutureConstruction.version
 	NAME: NearFutureConstruction
 	URL: https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureConstruction/master/GameData/NearFutureConstruction/Versioning/NearFutureConstruction.version
 	DOWNLOAD: http://forum.kerbalspaceprogram.com/index.php?/topic/155465-near-future-technologies
@@ -1049,8 +996,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
 
-[Text 14:46:31.4387763]: Identical remote version found: Using remote version information only.
-[Text 14:46:31.4387763]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureExploration/master/GameData/NearFutureExploration/Versioning/NearFutureExploration.version
+[Text 15:28:33.0668583]: Identical remote version found: Using remote version information only.
+[Text 15:28:33.0678507]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureExploration/master/GameData/NearFutureExploration/Versioning/NearFutureExploration.version
 	NAME: NearFutureExploration
 	URL: https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureExploration/master/GameData/NearFutureExploration/Versioning/NearFutureExploration.version
 	DOWNLOAD: http://forum.kerbalspaceprogram.com/index.php?/topic/155465-near-future-technologies
@@ -1065,8 +1012,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:31.6011487]: Identical remote version found: Using remote version information only.
-[Text 14:46:31.6011487]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles/master/GameData/NearFutureLaunchVehicles/Versioning/NearFutureLaunchVehicles.version
+[Text 15:28:33.2761424]: Identical remote version found: Using remote version information only.
+[Text 15:28:33.2761424]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles/master/GameData/NearFutureLaunchVehicles/Versioning/NearFutureLaunchVehicles.version
 	NAME: NearFutureLaunchVehicles
 	URL: https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles/master/GameData/NearFutureLaunchVehicles/Versioning/NearFutureLaunchVehicles.version
 	DOWNLOAD: http://forum.kerbalspaceprogram.com/index.php?/topic/155465-130-near-future-technologies-june-30
@@ -1081,8 +1028,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:31.7694126]: Identical remote version found: Using remote version information only.
-[Text 14:46:31.7694126]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureProps/master/GameData/NearFutureProps/Versioning/NearFutureProps.version
+[Text 15:28:33.4741070]: Identical remote version found: Using remote version information only.
+[Text 15:28:33.4741070]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureProps/master/GameData/NearFutureProps/Versioning/NearFutureProps.version
 	NAME: NearFutureProps
 	URL: https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureProps/master/GameData/NearFutureProps/Versioning/NearFutureProps.version
 	DOWNLOAD: https://github.com/post-kerbin-mining-corporation/NearFutureProps/releases
@@ -1097,8 +1044,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:31.8925905]: Identical remote version found: Using remote version information only.
-[Text 14:46:31.8925905]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureSolar/master/GameData/NearFutureSolar/Versioning/NearFutureSolar.version
+[Text 15:28:33.8781455]: Identical remote version found: Using remote version information only.
+[Text 15:28:33.8781455]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureSolar/master/GameData/NearFutureSolar/Versioning/NearFutureSolar.version
 	NAME: NearFutureSolar
 	URL: https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureSolar/master/GameData/NearFutureSolar/Versioning/NearFutureSolar.version
 	DOWNLOAD: http://forum.kerbalspaceprogram.com/index.php?/topic/155465-near-future-technologies
@@ -1113,8 +1060,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:32.2683073]: Identical remote version found: Using remote version information only.
-[Text 14:46:32.2683073]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/OrbitalTug
+[Text 15:28:34.3214407]: Identical remote version found: Using remote version information only.
+[Text 15:28:34.3224310]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/OrbitalTug
 	NAME: OrbitalTug
 	URL: http://ksp.spacetux.net/avc/OrbitalTug
 	DOWNLOAD: https://forum.kerbalspaceprogram.com/index.php?/topic/133162-112-orbital-utility-vehicle-v124/&page=12&tab=comments#comment-3603647
@@ -1131,12 +1078,12 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:32.3975783]: Exception fetching data from: https://raw.githubusercontent.com/jrodrigv/PhysicsRangeExtender/raw/master/PhysicsRangeExtender/Distribution/GameData/PhysicsRangeExtender/PhysicsRangeExtender.version
-[Text 14:46:32.3975783]: Status Code : 404 - NotFound
-[Text 14:46:32.3975783]: Status Description : Not Found
+[Text 15:28:34.6965392]: Exception fetching data from: https://raw.githubusercontent.com/jrodrigv/PhysicsRangeExtender/raw/master/PhysicsRangeExtender/Distribution/GameData/PhysicsRangeExtender/PhysicsRangeExtender.version
+[Text 15:28:34.6965392]: Status Code : 404 - NotFound
+[Text 15:28:34.6973184]: Status Description : Not Found
 
-[Text 14:46:32.9386275]: Identical remote version found: Using remote version information only.
-[Text 14:46:32.9386275]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/Nils277/KerbalPlanetaryBaseSystems/master/FOR_RELEASE/GameData/PlanetaryBaseInc/PlanetaryBaseInc.version
+[Text 15:28:35.6434749]: Identical remote version found: Using remote version information only.
+[Text 15:28:35.6434749]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/Nils277/KerbalPlanetaryBaseSystems/master/FOR_RELEASE/GameData/PlanetaryBaseInc/PlanetaryBaseInc.version
 	NAME: Kerbal Planetary Base Systems
 	URL: https://raw.githubusercontent.com/Nils277/KerbalPlanetaryBaseSystems/master/FOR_RELEASE/GameData/PlanetaryBaseInc/PlanetaryBaseInc.version
 	DOWNLOAD: https://github.com/Nils277/KerbalPlanetaryBaseSystems/releases
@@ -1153,8 +1100,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:33.2366953]: Exception with URL: http://ksp.spacetux.net/avc/ProbeControlRoom
-[Exception 14:46:33.2366953]: System.FormatException: Input string was not in a correct format.
+[Text 15:28:36.1461493]: Exception with URL: http://ksp.spacetux.net/avc/ProbeControlRoom
+[Exception 15:28:36.1461493]: System.FormatException: Input string was not in a correct format.
   at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.Number.ParseInt64 (System.String value, System.Globalization.NumberStyles options, System.Globalization.NumberFormatInfo numfmt) [0x00014] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.Int64.Parse (System.String s) [0x00007] in <9577ac7a62ef43179789031239ba8798>:0 
@@ -1169,8 +1116,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at KSP_AVC.Addon.ProcessRemoteInfo (System.Object state) [0x0002a] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
 
-[Text 14:46:33.3595395]: Identical remote version found: Using remote version information only.
-[Text 14:46:33.3595395]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/ChrisViral/RealChute/master/Output/GameData/RealChute/RealChute.version
+[Text 15:28:36.5558570]: Identical remote version found: Using remote version information only.
+[Text 15:28:36.5558570]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/ChrisViral/RealChute/master/Output/GameData/RealChute/RealChute.version
 	NAME: RealChute
 	URL: https://raw.githubusercontent.com/ChrisViral/RealChute/master/Output/GameData/RealChute/RealChute.version
 	DOWNLOAD: NULL
@@ -1185,8 +1132,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:33.4773089]: Identical remote version found: Using remote version information only.
-[Text 14:46:33.4773089]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/NathanKell/ModularFuelSystem/master/RealFuels/RealFuels.version
+[Text 15:28:36.9661546]: Identical remote version found: Using remote version information only.
+[Text 15:28:36.9661546]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/NathanKell/ModularFuelSystem/master/RealFuels/RealFuels.version
 	NAME: RealFuels
 	URL: https://raw.githubusercontent.com/NathanKell/ModularFuelSystem/master/RealFuels/RealFuels.version
 	DOWNLOAD: NULL
@@ -1201,7 +1148,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:33.9933249]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\RealFuels-Stock\RFStockalike.version
+[Text 15:28:37.8008250]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\RealFuels-Stock\RFStockalike.version
 	NAME: RealFuels-Stock
 	URL: https://raw.githubusercontent.com/ValiZockt/RealFuels-Stock/master/GameData/RealFuels-Stock/RFStockalike.version
 	DOWNLOAD: https://github.com/ValiZockt/RealFuels-Stock/releases/latest
@@ -1217,7 +1164,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
-[Text 14:46:33.9933249]: https://raw.githubusercontent.com/ValiZockt/RealFuels-Stock/master/GameData/RealFuels-Stock/RFStockalike.version
+[Text 15:28:37.8008250]: https://raw.githubusercontent.com/ValiZockt/RealFuels-Stock/master/GameData/RealFuels-Stock/RFStockalike.version
 	NAME: RealFuels-Stock
 	URL: https://raw.githubusercontent.com/ValiZockt/RealFuels-Stock/master/GameData/RealFuels-Stock/RFStockalike.version
 	DOWNLOAD: https://github.com/ValiZockt/RealFuels-Stock/releases/latest
@@ -1235,8 +1182,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleGitHubVersion: False
 	UpdateAvailable: False
 
-[Text 14:46:35.1963202]: Identical remote version found: Using remote version information only.
-[Text 14:46:35.1963202]: SetRemoteAvcInfo, RemoteInfo http://ksp.necrobones.com/files/RealScaleBoosters/RealScaleBoosters.version
+[Text 15:28:40.8481000]: Identical remote version found: Using remote version information only.
+[Text 15:28:40.8481000]: SetRemoteAvcInfo, RemoteInfo http://ksp.necrobones.com/files/RealScaleBoosters/RealScaleBoosters.version
 	NAME: Real Scale Boosters
 	URL: http://ksp.necrobones.com/files/RealScaleBoosters/RealScaleBoosters.version
 	DOWNLOAD: http://spacedock.info/mod/90/Real%20Scale%20Boosters
@@ -1251,8 +1198,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:35.2541874]: Identical remote version found: Using remote version information only.
-[Text 14:46:35.2551893]: SetRemoteAvcInfo, RemoteInfo http://ksp.necrobones.com/files/RealScaleBoosters/RealScaleBoostersStockalike.version
+[Text 15:28:41.2518567]: Identical remote version found: Using remote version information only.
+[Text 15:28:41.2518567]: SetRemoteAvcInfo, RemoteInfo http://ksp.necrobones.com/files/RealScaleBoosters/RealScaleBoostersStockalike.version
 	NAME: Real Scale Boosters Stockalike
 	URL: http://ksp.necrobones.com/files/RealScaleBoosters/RealScaleBoostersStockalike.version
 	DOWNLOAD: http://ksp.necrobones.com/files/RealScaleBoosters/
@@ -1267,8 +1214,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:35.9897467]: Identical remote version found: Using remote version information only.
-[Text 14:46:35.9897467]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/RemoteTechnologiesGroup/RemoteTech/master/GameData/RemoteTech/RemoteTech.version
+[Text 15:28:42.8999524]: Identical remote version found: Using remote version information only.
+[Text 15:28:42.8999524]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/RemoteTechnologiesGroup/RemoteTech/master/GameData/RemoteTech/RemoteTech.version
 	NAME: RemoteTech
 	URL: https://raw.githubusercontent.com/RemoteTechnologiesGroup/RemoteTech/master/GameData/RemoteTech/RemoteTech.version
 	DOWNLOAD: http://spacedock.info/mod/520/RemoteTech
@@ -1285,22 +1232,24 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
 
-[Text 14:46:36.0376191]: Exception fetching data from: http://ksp-avc.cybutek.net/version.php?id=183
-[Exception 14:46:36.0376191]: System.Net.WebException: Error getting response stream (ReadDone2): ReceiveFailure ---> System.Exception:   at System.Net.WebConnection.HandleError (System.Net.WebExceptionStatus st, System.Exception e, System.String where) [0x00000] in <ef151b6abb5d474cb2c1cb8906a8b5a4>:0 
-  at System.Net.WebConnection.ReadDone (System.IAsyncResult result) [0x00000] in <ef151b6abb5d474cb2c1cb8906a8b5a4>:0 
-  at System.Net.Sockets.SocketAsyncResult+<>c.<Complete>b__27_0 (System.Object state) [0x00000] in <ef151b6abb5d474cb2c1cb8906a8b5a4>:0 
-  at System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem () [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
-  at System.Threading.ThreadPoolWorkQueue.Dispatch () [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
-  at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback () [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
-  at System.Net.WebConnection.HandleError (System.Net.WebExceptionStatus st, System.Exception e, System.String where) [0x0003b] in <ef151b6abb5d474cb2c1cb8906a8b5a4>:0 
-   --- End of inner exception stack trace ---
-  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00058] in <ef151b6abb5d474cb2c1cb8906a8b5a4>:0 
-  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <ef151b6abb5d474cb2c1cb8906a8b5a4>:0 
-  at KSP_AVC.Addon.FetchRemoteInfo () [0x0006e] in <2d19027fcac14ab6b2708f9d52adf033>:0 
+[Text 15:28:44.3324624]: Identical remote version found: Using remote version information only.
+[Text 15:28:44.3324624]: SetRemoteAvcInfo, RemoteInfo http://ksp-avc.cybutek.net/version.php?id=183
+	NAME: DeepFreeze Continued...
+	URL: http://ksp-avc.cybutek.net/version.php?id=183
+	DOWNLOAD: http://spacedock.info/mod/142/DeepFreeze%20Continued...
+	GITHUB: NULL
+	DISALLOW_VERSION_OVERRIDE: False
+	VERSION: 0.31
+	KSP_VERSION: 1.12
+	KSP_VERSION_MIN: 1.12
+	KSP_VERSION_MAX: 1.12.99
+	CompatibleKspVersion: False
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
 
-
-[Text 14:46:36.1499077]: Identical remote version found: Using remote version information only.
-[Text 14:46:36.1499077]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/PorktoberRevolution/ReStocked/prod/Distribution/Restock/GameData/ReStock/Versioning/ReStock.version
+[Text 15:28:44.7393992]: Identical remote version found: Using remote version information only.
+[Text 15:28:44.7393992]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/PorktoberRevolution/ReStocked/prod/Distribution/Restock/GameData/ReStock/Versioning/ReStock.version
 	NAME: ReStock
 	URL: https://raw.githubusercontent.com/PorktoberRevolution/ReStocked/prod/Distribution/Restock/GameData/ReStock/Versioning/ReStock.version
 	DOWNLOAD: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/&
@@ -1315,8 +1264,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:36.5880133]: Identical remote version found: Using remote version information only.
-[Text 14:46:36.5880133]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/RetractableLiftingSurface
+[Text 15:28:45.6164915]: Identical remote version found: Using remote version information only.
+[Text 15:28:45.6172700]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/RetractableLiftingSurface
 	NAME: RetractableLiftingSurface
 	URL: http://ksp.spacetux.net/avc/RetractableLiftingSurface
 	DOWNLOAD: https://github.com/linuxgurugamer/RetractableLiftingSurface
@@ -1333,29 +1282,29 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:36.6179113]: Version file contains errors: F:\Kerbal Space ProgramRSS\GameData\RN_Salyut\SalyutStations.version
-[Text 14:46:36.6179113]: Error: Error parsing: F:\Kerbal Space ProgramRSS\GameData\RN_Salyut\SalyutStations.version
-[Exception 14:46:36.6179113]: System.ArgumentException: Not a valid JSON object.
+[Text 15:28:45.6494415]: Version file contains errors: F:\Kerbal Space ProgramRSS\GameData\RN_Salyut\SalyutStations.version
+[Text 15:28:45.6494415]: Error: Error parsing: F:\Kerbal Space ProgramRSS\GameData\RN_Salyut\SalyutStations.version
+[Exception 15:28:45.6514360]: System.ArgumentException: Not a valid JSON object.
   at KSP_AVC.AddonInfo..ctor (System.String path, System.String json, KSP_AVC.AddonInfo+RemoteType remoteType) [0x000c2] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.Addon.FetchLocalInfo (System.String path) [0x00014] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.Addon.ProcessLocalInfo (System.Object state) [0x00012] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Text 14:46:36.6471451]: Version file contains errors: F:\Kerbal Space ProgramRSS\GameData\RN_Soviet_Rockets\SovietRockets.version
-[Text 14:46:36.6471451]: Error: Error parsing: F:\Kerbal Space ProgramRSS\GameData\RN_Soviet_Rockets\SovietRockets.version
-[Exception 14:46:36.6471451]: System.ArgumentException: Not a valid JSON object.
+[Text 15:28:45.6995917]: Version file contains errors: F:\Kerbal Space ProgramRSS\GameData\RN_Soviet_Rockets\SovietRockets.version
+[Text 15:28:45.6995917]: Error: Error parsing: F:\Kerbal Space ProgramRSS\GameData\RN_Soviet_Rockets\SovietRockets.version
+[Exception 15:28:45.7001646]: System.ArgumentException: Not a valid JSON object.
   at KSP_AVC.AddonInfo..ctor (System.String path, System.String json, KSP_AVC.AddonInfo+RemoteType remoteType) [0x000c2] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.Addon.FetchLocalInfo (System.String path) [0x00014] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.Addon.ProcessLocalInfo (System.Object state) [0x00012] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Text 14:46:36.7129197]: Version file contains errors: F:\Kerbal Space ProgramRSS\GameData\RN_Soyuz\SovietSpacecraft.version
-[Text 14:46:36.7129197]: Error: Error parsing: F:\Kerbal Space ProgramRSS\GameData\RN_Soyuz\SovietSpacecraft.version
-[Exception 14:46:36.7129197]: System.ArgumentException: Not a valid JSON object.
+[Text 15:28:45.7429544]: Version file contains errors: F:\Kerbal Space ProgramRSS\GameData\RN_Soyuz\SovietSpacecraft.version
+[Text 15:28:45.7429544]: Error: Error parsing: F:\Kerbal Space ProgramRSS\GameData\RN_Soyuz\SovietSpacecraft.version
+[Exception 15:28:45.7429544]: System.ArgumentException: Not a valid JSON object.
   at KSP_AVC.AddonInfo..ctor (System.String path, System.String json, KSP_AVC.AddonInfo+RemoteType remoteType) [0x000c2] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.Addon.FetchLocalInfo (System.String path) [0x00014] in <2d19027fcac14ab6b2708f9d52adf033>:0 
   at KSP_AVC.Addon.ProcessLocalInfo (System.Object state) [0x00012] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Text 14:46:37.1966304]: Identical remote version found: Using remote version information only.
-[Text 14:46:37.1966304]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/S-C-A-N/SCANsat/release/SCANassets/SCANsat.version
+[Text 15:28:46.3924016]: Identical remote version found: Using remote version information only.
+[Text 15:28:46.3924016]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/S-C-A-N/SCANsat/release/SCANassets/SCANsat.version
 	NAME: SCANsat
 	URL: https://raw.githubusercontent.com/S-C-A-N/SCANsat/release/SCANassets/SCANsat.version
 	DOWNLOAD: https://github.com/S-C-A-N/SCANsat/releases
@@ -1372,12 +1321,12 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: False
 
-[Text 14:46:37.3302702]: Exception fetching data from: https://raw.githubusercontent.com/blowfishpro/SimpleAdjustableFairings/master/GameData/SimpleAdjustableFairings/SimpleAdjustableFairings.version
-[Text 14:46:37.3302702]: Status Code : 404 - NotFound
-[Text 14:46:37.3302702]: Status Description : Not Found
+[Text 15:28:46.7837344]: Exception fetching data from: https://raw.githubusercontent.com/blowfishpro/SimpleAdjustableFairings/master/GameData/SimpleAdjustableFairings/SimpleAdjustableFairings.version
+[Text 15:28:46.7837344]: Status Code : 404 - NotFound
+[Text 15:28:46.7837344]: Status Description : Not Found
 
-[Text 14:46:37.7153588]: Identical remote version found: Using remote version information only.
-[Text 14:46:37.7153588]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/blowfishpro/SimpleAdjustableFairings-KWRocketry/master/GameData/SimpleAdjustableFairings-KWRocketry/SimpleAdjustableFairings-KWRocketry.version
+[Text 15:28:47.2276897]: Identical remote version found: Using remote version information only.
+[Text 15:28:47.2277342]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/blowfishpro/SimpleAdjustableFairings-KWRocketry/master/GameData/SimpleAdjustableFairings-KWRocketry/SimpleAdjustableFairings-KWRocketry.version
 	NAME: Simple Adjustable Fairings - KW Rocketry Pack
 	URL: https://raw.githubusercontent.com/blowfishpro/SimpleAdjustableFairings-KWRocketry/master/GameData/SimpleAdjustableFairings-KWRocketry/SimpleAdjustableFairings-KWRocketry.version
 	DOWNLOAD: https://github.com/blowfishpro/SimpleAdjustableFairings-KWRocketry/releases
@@ -1394,8 +1343,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
 
-[Text 14:46:38.3168489]: Exception with URL: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/SimpleConstruction.version
-[Exception 14:46:38.3168489]: System.FormatException: Input string was not in a correct format.
+[Text 15:28:48.4615076]: Exception with URL: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/SimpleConstruction.version
+[Exception 15:28:48.4615076]: System.FormatException: Input string was not in a correct format.
   at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.Number.ParseInt64 (System.String value, System.Globalization.NumberStyles options, System.Globalization.NumberFormatInfo numfmt) [0x00014] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.Int64.Parse (System.String s) [0x00007] in <9577ac7a62ef43179789031239ba8798>:0 
@@ -1410,7 +1359,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at KSP_AVC.Addon.ProcessRemoteInfo (System.Object state) [0x0002a] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
 
-[Text 14:46:39.4865408]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\SimpleConstruction\Plugins\EL.version
+[Text 15:28:50.2741738]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\SimpleConstruction\Plugins\EL.version
 	NAME: ExtraplanetaryLaunchpads
 	URL: http://taniwha.org/~bill/ExtraplanetaryLaunchpads.version
 	DOWNLOAD: http://taniwha.org/~bill/ExtraplanetaryLaunchpads_v6.8.3.zip
@@ -1424,7 +1373,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
-[Text 14:46:39.4865408]: http://taniwha.org/~bill/ExtraplanetaryLaunchpads.version
+[Text 15:28:50.2741738]: http://taniwha.org/~bill/ExtraplanetaryLaunchpads.version
 	NAME: ExtraplanetaryLaunchpads
 	URL: http://taniwha.org/~bill/ExtraplanetaryLaunchpads.version
 	DOWNLOAD: http://taniwha.org/~bill/ExtraplanetaryLaunchpads_v6.99.1.zip
@@ -1440,8 +1389,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleGitHubVersion: True
 	UpdateAvailable: False
 
-[Text 14:46:40.0053963]: Identical remote version found: Using remote version information only.
-[Text 14:46:40.0053963]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/KSP-RO/SolverEngines/master/GameData/SolverEngines/SolverEngines.version
+[Text 15:28:51.1796724]: Identical remote version found: Using remote version information only.
+[Text 15:28:51.1796724]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/KSP-RO/SolverEngines/master/GameData/SolverEngines/SolverEngines.version
 	NAME: SolverEngines
 	URL: https://raw.githubusercontent.com/KSP-RO/SolverEngines/master/GameData/SolverEngines/SolverEngines.version
 	DOWNLOAD: https://github.com/KSP-RO/SolverEngines/releases
@@ -1458,8 +1407,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:40.1337233]: Identical remote version found: Using remote version information only.
-[Text 14:46:40.1337233]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/SpaceDust/master/GameData/SpaceDust/Versioning/SpaceDust.version
+[Text 15:28:51.5028308]: Identical remote version found: Using remote version information only.
+[Text 15:28:51.5028308]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/SpaceDust/master/GameData/SpaceDust/Versioning/SpaceDust.version
 	NAME: SpaceDust
 	URL: https://raw.githubusercontent.com/post-kerbin-mining-corporation/SpaceDust/master/GameData/SpaceDust/Versioning/SpaceDust.version
 	DOWNLOAD: NULL
@@ -1474,8 +1423,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:40.4230323]: Identical remote version found: Using remote version information only.
-[Text 14:46:40.4230323]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/StationScience
+[Text 15:28:52.3358543]: Identical remote version found: Using remote version information only.
+[Text 15:28:52.3358543]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/StationScience
 	NAME: MOARStationScience
 	URL: http://ksp.spacetux.net/avc/StationScience
 	DOWNLOAD: https://github.com/linuxgurugamer/StationScience/releases
@@ -1492,7 +1441,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:41.6525175]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\Trajectories\Trajectories.version
+[Text 15:28:54.0603441]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\Trajectories\Trajectories.version
 	NAME: Trajectories
 	URL: http://ksp-avc.cybutek.net/version.php?id=63
 	DOWNLOAD: https://spacedock.info/mod/396/Trajectories
@@ -1506,7 +1455,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
-[Text 14:46:41.6525175]: http://ksp-avc.cybutek.net/version.php?id=63
+[Text 15:28:54.0603441]: http://ksp-avc.cybutek.net/version.php?id=63
 	NAME: Trajectories
 	URL: http://ksp-avc.cybutek.net/version.php?id=63
 	DOWNLOAD: https://github.com/neuoy/KSPTrajectories/releases/download/v2.4.1/Trajectories-v2.4.1.zip
@@ -1522,7 +1471,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleGitHubVersion: True
 	UpdateAvailable: False
 
-[Text 14:46:41.7802294]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\TundraExploration\Versioning\TundraExploration.version
+[Text 15:28:54.3717088]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\TundraExploration\Versioning\TundraExploration.version
 	NAME: <b><color=#ffffff>Tundra</color> <color=#0090ff>Exploration</color></b>
 	URL: https://raw.githubusercontent.com/damonvv/TundraExploration/master/GameData/TundraExploration/Versioning/TundraExploration.version
 	DOWNLOAD: https://forum.kerbalspaceprogram.com/index.php?/topic/166915-131-tundra-exploration
@@ -1536,7 +1485,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
-[Text 14:46:41.7802294]: https://raw.githubusercontent.com/damonvv/TundraExploration/master/GameData/TundraExploration/Versioning/TundraExploration.version
+[Text 15:28:54.3717088]: https://raw.githubusercontent.com/damonvv/TundraExploration/master/GameData/TundraExploration/Versioning/TundraExploration.version
 	NAME: <b><color=#ffffff>Tundra</color> <color=#0090ff>Exploration</color></b>
 	URL: https://raw.githubusercontent.com/damonvv/TundraExploration/master/GameData/TundraExploration/Versioning/TundraExploration.version
 	DOWNLOAD: https://forum.kerbalspaceprogram.com/index.php?/topic/166915-131-tundra-exploration
@@ -1552,8 +1501,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleGitHubVersion: True
 	UpdateAvailable: False
 
-[Text 14:46:41.9247169]: Identical remote version found: Using remote version information only.
-[Text 14:46:41.9247169]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/damonvv/TundraSpaceCenter/master/GameData/TundraSpaceCenter/Versioning/TundraSpaceCenter.version
+[Text 15:28:54.7720720]: Identical remote version found: Using remote version information only.
+[Text 15:28:54.7730378]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/damonvv/TundraSpaceCenter/master/GameData/TundraSpaceCenter/Versioning/TundraSpaceCenter.version
 	NAME: <b><color=#ffffff>Tundra</color> <color=#0090ff>Space Center</color></b>
 	URL: https://raw.githubusercontent.com/damonvv/TundraSpaceCenter/master/GameData/TundraSpaceCenter/Versioning/TundraSpaceCenter.version
 	DOWNLOAD: https://forum.kerbalspaceprogram.com/index.php?/topic/174368-143-tundras-space-center
@@ -1568,7 +1517,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:49.7225713]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\UniversalStorage2\UniversalStorage2.version
+[Text 15:28:57.0445512]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\UniversalStorage2\UniversalStorage2.version
 	NAME: Universal Storage 2
 	URL: http://ksp-avc.cybutek.net/version.php?id=667
 	DOWNLOAD: https://spacedock.info/mod/1933/Universal%20Storage%20II
@@ -1582,7 +1531,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: False
 	CompatibleGitHubVersion: True
-[Text 14:46:49.7225713]: http://ksp-avc.cybutek.net/version.php?id=667
+[Text 15:28:57.0455495]: http://ksp-avc.cybutek.net/version.php?id=667
 	NAME: Universal Storage 2
 	URL: http://ksp-avc.cybutek.net/version.php?id=667
 	DOWNLOAD: https://spacedock.info/mod/1933/Universal%20Storage%20II
@@ -1598,8 +1547,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleGitHubVersion: True
 	UpdateAvailable: False
 
-[Text 14:46:50.3209025]: Identical remote version found: Using remote version information only.
-[Text 14:46:50.3209025]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/VesselView
+[Text 15:28:57.5672105]: Identical remote version found: Using remote version information only.
+[Text 15:28:57.5672225]: SetRemoteAvcInfo, RemoteInfo http://ksp.spacetux.net/avc/VesselView
 	NAME: VesselViewerContinued
 	URL: http://ksp.spacetux.net/avc/VesselView
 	DOWNLOAD: https://github.com/linuxgurugamer/VesselViewer/releases
@@ -1616,8 +1565,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: False
 
-[Text 14:46:50.4535663]: Identical remote version found: Using remote version information only.
-[Text 14:46:50.4535663]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/Waterfall/master/GameData/Waterfall/Versioning/Waterfall.version
+[Text 15:28:57.7183458]: Identical remote version found: Using remote version information only.
+[Text 15:28:57.7183458]: SetRemoteAvcInfo, RemoteInfo https://raw.githubusercontent.com/post-kerbin-mining-corporation/Waterfall/master/GameData/Waterfall/Versioning/Waterfall.version
 	NAME: Waterfall
 	URL: https://raw.githubusercontent.com/post-kerbin-mining-corporation/Waterfall/master/GameData/Waterfall/Versioning/Waterfall.version
 	DOWNLOAD: https://github.com/post-kerbin-mining-corporation/Waterfall
@@ -1632,10 +1581,10 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 14:46:50.6583297]: Exception fetching data from: https://raw.githubusercontent.com/linuxgurugamer/QuickMods/ZeroMiniAVC/master/README.md
-[Text 14:46:50.6583297]: Status Code : 404 - NotFound
-[Text 14:46:50.6583297]: Status Description : Not Found
-[Text 14:46:50.6583297]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\ZeroMiniAVC\ZeroMiniAVC.version
+[Text 15:28:57.9396739]: Exception fetching data from: https://raw.githubusercontent.com/linuxgurugamer/QuickMods/ZeroMiniAVC/master/README.md
+[Text 15:28:57.9396739]: Status Code : 404 - NotFound
+[Text 15:28:57.9396739]: Status Description : Not Found
+[Text 15:28:57.9396739]: SetRemoteAvcInfo, LocalInfoF:\Kerbal Space ProgramRSS\GameData\ZeroMiniAVC\ZeroMiniAVC.version
 	NAME: ZeroMiniAVC
 	URL: http://ksp.spacetux.net/avc/ZeroMiniAVC
 	DOWNLOAD: https://github.com/linuxgurugamer/QuickMods/ZeroMiniAVC/releases
@@ -1649,7 +1598,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
-[Text 14:46:50.6583297]: http://ksp.spacetux.net/avc/ZeroMiniAVC
+[Text 15:28:57.9396739]: http://ksp.spacetux.net/avc/ZeroMiniAVC
 	NAME: ZeroMiniAVC
 	URL: http://ksp.spacetux.net/avc/ZeroMiniAVC
 	DOWNLOAD: https://github.com/linuxgurugamer/QuickMods/ZeroMiniAVC/releases
@@ -1665,11 +1614,11 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
 	CompatibleGitHubVersion: True
 	UpdateAvailable: False
 
-[Text 14:46:50.6643661]: GuiHelper was created
-[Text 14:46:50.6693316]: IssueGui was created.
-[Text 14:46:50.6703305]: Starter was destroyed.
-[Text 14:46:50.6722920]: CheckerProgressGui was destroyed.
-[Exception 14:46:50.6792759]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownBackground.png".
+[Text 15:28:57.9648974]: GuiHelper was created
+[Text 15:28:57.9668952]: IssueGui was created.
+[Text 15:28:57.9679393]: Starter was destroyed.
+[Text 15:28:57.9699402]: CheckerProgressGui was destroyed.
+[Exception 15:28:57.9759464]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownBackground.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1677,7 +1626,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6802739]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownNormal.png".
+[Exception 15:28:57.9769413]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownNormal.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1685,7 +1634,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6812717]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownHover.png".
+[Exception 15:28:57.9775155]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownHover.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1693,7 +1642,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6822688]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownActive.png".
+[Exception 15:28:57.9780353]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownActive.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1701,7 +1650,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6832976]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnNormal.png".
+[Exception 15:28:57.9780353]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnNormal.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1709,7 +1658,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6852606]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnHover.png".
+[Exception 15:28:57.9800277]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnHover.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1717,8 +1666,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Text 14:46:50.6892623]: ToolTipGui was created.
-[Exception 14:46:50.6912398]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownBackground.png".
+[Text 15:28:57.9852053]: ToolTipGui was created.
+[Exception 15:28:57.9861894]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownBackground.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1726,7 +1675,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6922373]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownNormal.png".
+[Exception 15:28:57.9871863]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownNormal.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1734,7 +1683,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6942319]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownHover.png".
+[Exception 15:28:57.9881828]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownHover.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1742,7 +1691,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6952291]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownActive.png".
+[Exception 15:28:57.9891824]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownActive.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1750,7 +1699,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6952291]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnNormal.png".
+[Exception 15:28:57.9891824]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnNormal.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1758,7 +1707,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6962267]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnHover.png".
+[Exception 15:28:57.9901784]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnHover.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1766,8 +1715,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Text 14:46:50.6972244]: ToolTipGui was created.
-[Exception 14:46:50.6982209]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownBackground.png".
+[Text 15:28:57.9901784]: ToolTipGui was created.
+[Exception 15:28:57.9911750]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownBackground.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1775,7 +1724,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6982209]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownNormal.png".
+[Exception 15:28:57.9911750]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownNormal.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1783,7 +1732,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.6992202]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownHover.png".
+[Exception 15:28:57.9921740]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownHover.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1791,7 +1740,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.7002515]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownActive.png".
+[Exception 15:28:57.9921740]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownActive.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1799,7 +1748,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.7002515]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnNormal.png".
+[Exception 15:28:57.9931710]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnNormal.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1807,7 +1756,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.7012162]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnHover.png".
+[Exception 15:28:57.9931710]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnHover.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1815,8 +1764,8 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Text 14:46:50.7012162]: ToolTipGui was created.
-[Exception 14:46:50.7022134]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownBackground.png".
+[Text 15:28:57.9931710]: ToolTipGui was created.
+[Exception 15:28:57.9931710]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownBackground.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1824,7 +1773,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.7032121]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownNormal.png".
+[Exception 15:28:57.9941655]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownNormal.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1832,7 +1781,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.7042072]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownHover.png".
+[Exception 15:28:57.9941655]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownHover.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1840,7 +1789,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.7052242]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownActive.png".
+[Exception 15:28:57.9941655]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownActive.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1848,7 +1797,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.7062055]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnNormal.png".
+[Exception 15:28:57.9951643]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnNormal.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1856,7 +1805,7 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Exception 14:46:50.7071966]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnHover.png".
+[Exception 15:28:57.9951643]: System.IO.DirectoryNotFoundException: Could not find a part of the path "F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\Textures\DropDownOnHover.png".
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <9577ac7a62ef43179789031239ba8798>:0 
   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
@@ -1864,10 +1813,10 @@ Assembly: F:\Kerbal Space ProgramRSS\GameData\KSP-AVC\Plugins\KSP-AVC.dll
   at System.IO.File.ReadAllBytes (System.String path) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
   at KSP_AVC.DropDownList.GetTexture (System.String file, System.Int32 width, System.Int32 height) [0x00017] in <2d19027fcac14ab6b2708f9d52adf033>:0 
 
-[Text 14:46:50.7071966]: ToolTipGui was created.
-[Text 14:54:21.2889637]: IssueGui was destroyed.
-[Text 14:54:21.3005813]: ToolTipGui was destroyed.
-[Text 14:54:21.3005813]: ToolTipGui was destroyed.
-[Text 14:54:21.3005813]: ToolTipGui was destroyed.
-[Text 14:54:21.3005813]: ToolTipGui was destroyed.
-[Text 15:11:02.4629213]: GuiHelper was destroyed
+[Text 15:28:57.9951643]: ToolTipGui was created.
+[Text 15:29:07.1794508]: IssueGui was destroyed.
+[Text 15:29:07.1824425]: ToolTipGui was destroyed.
+[Text 15:29:07.1824425]: ToolTipGui was destroyed.
+[Text 15:29:07.1824425]: ToolTipGui was destroyed.
+[Text 15:29:07.1824425]: ToolTipGui was destroyed.
+[Text 15:39:57.5398255]: GuiHelper was destroyed
